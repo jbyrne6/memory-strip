@@ -1,0 +1,3 @@
+rootProject.name = 'MemoryStrip'
+
+include ':app'
